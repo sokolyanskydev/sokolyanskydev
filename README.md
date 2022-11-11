@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokolyanskydev)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokolyanskydev&count_private=true)
